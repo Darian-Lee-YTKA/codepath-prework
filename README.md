@@ -32,7 +32,7 @@ Describe any challenges encountered while building the app:
 
 I am using xcode version 10.1. It seems that every time you make a small change to the button,
 the software crashes and you need to make a new file and rewrite everything from scratch. I didn't realise this at first and thought I must of had some bug somewhere.
-Once I realised that the solution was to repaste my code into a new file whenever I changed something in order to prevent it from crashing, the process went a lot more smoothly
+Once I realised that the solution was to repaste my code into a new file whenever I changed something in order to prevent it from crashing, the process went a lot more smoothly. (Note: I am getting a new laptop in a few weeks so this will no longer be an issue)
 
 ## License
 
