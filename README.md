@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='(Daily Color Demo.gif)' width='' alt='Video Walkthrough' />
+<img src='![](Daily Color Demo.gif)' width='' alt='Video Walkthrough' />
 
 
 
