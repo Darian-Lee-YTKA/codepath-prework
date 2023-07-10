@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/2Yrriz6.gif' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1Pyz5GAfx7rIlPVChBuIHG4ECZ3_DJrHv/view?usp=sharing.gif' width='' alt='Video Walkthrough' />
 
 
 GIF created with Canva.com
