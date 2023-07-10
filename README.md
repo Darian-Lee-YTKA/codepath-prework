@@ -1,6 +1,7 @@
 # Prework - Daily Color
 
 Submitted by: **Darian Lee**
+
 Daily Color is an app that lets you click a button to find out what color you are that day (I anticipate this will out compete TikTok in terms of popularity)
 
 Time spent: 6 hours spent in total (note: I was using an older version of xcode that is harder to use. I am getting a new laptop next month though)
