@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![]Daily Color Demo.gif' width='' alt='Video Walkthrough' />
-src='![]Daily Color Demo.gif'
+<img src='![](Daily Color Demo.gif)' width='' alt='Video Walkthrough' />
+
 
 
 GIF created with Canva.com
